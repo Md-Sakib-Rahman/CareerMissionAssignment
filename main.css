@@ -5,7 +5,7 @@
 }
 body{
     background: #E6EDF9;
-    background: linear-gradient(180deg,rgba(230, 237, 249, 1) 0%, rgba(157, 229, 255, 1) 100%);
+    background: linear-gradient(130deg,rgba(230, 237, 249, 1) 0%, rgba(157, 229, 255, 1) 100%);
 }
 .btn-primary{
     color: black;
