@@ -119,6 +119,9 @@ nav{
     text-align: center;
     padding: 0px 20px;
 }
+.inspirationSection > div > h2 {
+    font-size: 32px;
+}
 .iframeBox{
     max-width: 1100px;
     height: 620px;
@@ -136,6 +139,9 @@ nav{
 /* <!-- Target Section --> */
 .targetSection{
     text-align: center;
+}
+.targetSection > div >h2{
+    font-size: 32px;
 }
 .card{
     background: #E6EDF9;
