@@ -1,0 +1,94 @@
+@media screen and (max-width: 600px) {
+    .navBar{
+        margin: 0px 10px;
+    }
+    .btn-primary{
+      width: 180px; 
+      height: 50px; 
+      font-size: 16px;
+      padding: 0px;
+    }
+    .heroDiv{
+      margin: 100px 10px;
+    }
+    .heroText h2{
+    font-size: 32px;
+    }
+    .queryCard{
+    
+    flex-direction: column-reverse;
+    
+    }
+    .queryHead h2{
+      font-size: 26px;
+    }
+    .queryHead p{ 
+    font-size: 14px;
+    margin: 0px 10px;
+    }
+    .queryImage img{
+      width: 300px;
+      margin-bottom:  20px; ;
+    }
+    .queryCardText{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap:32px ;
+    }
+    .querySection{
+      margin: 0px 10px;
+    }
+    .iframeBox{
+    height: 320px;
+    padding: 22px;
+    
+   }
+   .inspirationSection > div > p{
+    font-size: 14px;
+   }
+   .footer{
+    flex-direction: column  ;
+    text-align: center;
+    
+   }
+   .commitment h2{
+    font-size: 16px;
+    margin: 20px 0px;
+  }
+   .cardDiv{
+    flex-wrap: wrap;
+  }
+  .card{
+    width: 280px;
+    height: 180px;
+  }
+}
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  .heroDiv{
+      margin: 100px 20px;
+    }
+  .queryImage img{
+      width: 300px;
+    }
+ 
+  .iframeBox{
+    height: 420px;
+  }
+  .commitment h2{
+    font-size: 16px;
+    
+  }
+  .cardDiv{
+    flex-wrap: wrap;
+  }
+  .card{
+    width: 280px;
+    height: 180px;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1260px){
+  .cardDiv{
+    flex-wrap: wrap;
+  }
+}
