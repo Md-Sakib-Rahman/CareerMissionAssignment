@@ -4,8 +4,8 @@
     color: #0D1321;
 }
 body{
-    background: #E6EDF9;
-    background: linear-gradient(130deg,rgba(230, 237, 249, 1) 0%, rgba(157, 229, 255, 1) 100%);
+    background: #E1E8FF;
+    background: linear-gradient(130deg,rgba(225, 232, 255, 1) 0%, rgba(157, 229, 255, 1) 100%);
 }
 .btn-primary{
     color: black;
